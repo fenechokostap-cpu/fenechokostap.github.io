@@ -1,0 +1,31 @@
+body{
+background-image:url("1.png");
+background-repeat:no-repeat;
+background-size:cover;
+color:#ff8000;
+text-align:center;
+font-family:Monotype Corsiva;
+}
+.11{
+	font-size:14;
+}
+
+button{
+	height:70px;
+	width:100px;
+	background-color:#ff9999;
+	color:#000000;
+	margin: 30px 30px;
+	padding:10px 20px;
+	background:#ff9999;
+	color:white;
+	transition:0.3s;
+}
+button:hover{
+	background:#ff9933;
+	color:black;
+	transform:scale(1.1)
+}
+form{
+	color:#000000;
+}

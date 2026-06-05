@@ -1,0 +1,14 @@
+body{
+	background-image:url("1.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+	color:#ff8000;
+	text-align:center;
+	font-family:Monotype Corsiva;
+}
+button{
+	height:70px;
+	width:100px;
+	background-color:#ff9999;
+	color:#000000;
+}
